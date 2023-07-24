@@ -10,11 +10,11 @@ Este é um simples script em Python que lê um arquivo contendo uma lista de CPF
 
 1. Certifique-se de que o Python 3.x está instalado no seu sistema.
 
-2. Coloque o script `gerar_uuid.py` e o arquivo contendo a lista de CPFs ou CNPJs no mesmo diretório.
+2. Coloque o script `Douuid.py` e o arquivo contendo a lista de CPFs ou CNPJs no mesmo diretório.
 
-3. Execute o script `gerar_uuid.py` digitando o seguinte comando no terminal:
+3. Execute o script `Douuid.py` digitando o seguinte comando no terminal:
 
-python gerar_uuid.py
+python Douuid.py
 
 
 4. O script irá solicitar o nome do arquivo contendo a lista de CPFs ou CNPJs. Digite o nome do arquivo e pressione Enter.
